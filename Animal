@@ -1,0 +1,14 @@
+#ifndef DOG1
+#define DOG1
+
+class Dog1 { 
+    public: 
+        Dog1(char* );
+    
+        void woof(); 
+    
+    protected: 
+        char* name; 
+};
+
+#endif

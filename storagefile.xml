@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cereal>
+	<value0>
+		<value0>Charlie</value0>
+		<value1>
+			<value0>Cookie</value0>
+		</value1>
+	</value0>
+	<value1>
+		<value0>Dan</value0>
+		<value1>
+			<value0>Dusty</value0>
+		</value1>
+	</value1>
+</cereal>
+
